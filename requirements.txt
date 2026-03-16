@@ -7,3 +7,4 @@ seaborn>=0
 flask>=0
 shap>=0
 pip>=24
+pillow >=0
